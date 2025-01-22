@@ -1,0 +1,18 @@
+/*--General-Modify-Reset--*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*--Font-Style-Customization--*/
+h1 {
+  color: black;
+  font-size: 10em;
+}
+/*--Main-Content--*/
+.mainContent {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
